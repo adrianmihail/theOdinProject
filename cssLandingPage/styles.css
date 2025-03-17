@@ -232,6 +232,7 @@ button {
     background-color: #1F2937;
     color: white;
     display: flex;
+    flex-direction: column;
 }
 
 #footerText {
