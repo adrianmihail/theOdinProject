@@ -1,5 +1,5 @@
 # theOdinProject
-The Odin Project's Tasks
+The Odin Project's Tasks  
 Here I will add my solutions to the problems presented by the curriculum.
 
 Current Progress:  
