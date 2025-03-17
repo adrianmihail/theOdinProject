@@ -2,6 +2,10 @@
 The Odin Project's Tasks  
 Here I will add my solutions to the problems presented by the curriculum.
 
+Technologies:
+1. HTML
+2. CSS
+
 Current Progress:  
 03/17/2025: Project Recipes - HTML = Done  
 Created a simple website with 4 pages  
